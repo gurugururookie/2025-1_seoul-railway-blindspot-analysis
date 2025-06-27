@@ -42,6 +42,6 @@ hidden blind spots in railway accessibility and to suggest policy improvements.
 ## 📂 data Information
 
 | data | Description |
- project1.ipynb  /  지하철, 버스 승하차량 데이터의 분석입니다.
- project2.ipynb  /  지하철, 버스 승하차량 데이터의 심화 분석입니다.
- project3.ipynb  /  서울시 교통 관련 기사에 대한 NLP 입니다.
+ -project1.ipynb  /  지하철, 버스 승하차량 데이터의 분석입니다.
+ -project2.ipynb  /  지하철, 버스 승하차량 데이터의 심화 분석입니다.
+ -project3.ipynb  /  서울시 교통 관련 기사에 대한 NLP 입니다.
